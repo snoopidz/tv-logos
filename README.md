@@ -1,3 +1,4 @@
+[![Stargazers repo roster for @snoopidz/tv-logos](https://reporoster.com/stars/snoopidz/tv-logos)](https://github.com/snoopidz/tv-logos/stargazers)
 # I'm trying this for the 3rd time
 
 I now have an enterprice account. I hope Github will allow me to stay up this time. Please consider donating since enterprice accounts are not free.
